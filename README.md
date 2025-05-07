@@ -128,6 +128,7 @@ All visualizations are interactive and built using Plotly for better user engage
 - 🔥 Pie Chart: Level Wise course distribution
 - 🧮 Count Plot: Courses per Subject
 ---
+![Udemy Trends](Udemy_earning.png)
 
 ## Technologies Used
 
