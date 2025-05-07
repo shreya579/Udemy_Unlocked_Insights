@@ -122,13 +122,11 @@ The dataset was downloaded from [Kaggle]([https://www.kaggle.com/](https://www.k
 
 All visualizations are interactive and built using Plotly for better user engagement:
 
-- 📊 Bar Plot: Course count per category
-- 💰 Box Plot: Price distribution by subcategory
-- 📈 Scatter Plot: Subscribers vs Ratings
-- 🕒 Horizontal Bar: Duration comparison
-- 🔥 Pie Chart: Free vs Paid course distribution
-- 🧮 Count Plot: Courses by content length range
-
+- 📊 Bar Plot: Estimated Udemy Earnings by Subject
+- 📈 Line Plot: Number of Subscribers in each Year
+- 🕒 Horizontal Bar: Top Udemy Courses Platform
+- 🔥 Pie Chart: Level Wise course distribution
+- 🧮 Count Plot: Courses per Subject
 ---
 
 ## Technologies Used
@@ -144,7 +142,7 @@ All visualizations are interactive and built using Plotly for better user engage
 ## Installation and Usage
 
 ### 1. Clone the Repository
-git clone https://github.com/yourusername/Udemy-Course-Explorer.git
+git clone https://github.com/shreya579/Udemy_Unlocked_Insights
 cd Udemy-Course-Explorer
 
 ### 2. Install Required Packages
